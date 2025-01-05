@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/art-gallery-web-app/static/css/main.5f6f0cd9.css",
+    "main.js": "/art-gallery-web-app/static/js/main.f6a923b6.js",
+    "static/js/563.ec6b3e95.chunk.js": "/art-gallery-web-app/static/js/563.ec6b3e95.chunk.js",
+    "static/media/background.jpeg": "/art-gallery-web-app/static/media/background.135522f7b053c941420b.jpeg",
+    "static/media/krishnaji.jpeg": "/art-gallery-web-app/static/media/krishnaji.f2afd6353a443f903e78.jpeg",
+    "static/media/Princess.jpeg": "/art-gallery-web-app/static/media/Princess.77fb502cdfec87dd1a60.jpeg",
+    "static/media/mermaid.jpeg": "/art-gallery-web-app/static/media/mermaid.3c67450f4931513917ca.jpeg",
+    "static/media/radhaji.jpeg": "/art-gallery-web-app/static/media/radhaji.62f2be004f40e1172429.jpeg",
+    "static/media/shivparvatiji.jpeg": "/art-gallery-web-app/static/media/shivparvatiji.1a223adcb1dade785710.jpeg",
+    "static/media/rose.jpeg": "/art-gallery-web-app/static/media/rose.aaeb3c18b19a6d894b16.jpeg",
+    "static/media/swan.jpeg": "/art-gallery-web-app/static/media/swan.bb971094afcb3380db78.jpeg",
+    "static/media/bird.jpeg": "/art-gallery-web-app/static/media/bird.2517f71a04d85bd0964c.jpeg",
+    "index.html": "/art-gallery-web-app/index.html",
+    "main.5f6f0cd9.css.map": "/art-gallery-web-app/static/css/main.5f6f0cd9.css.map",
+    "main.f6a923b6.js.map": "/art-gallery-web-app/static/js/main.f6a923b6.js.map",
+    "563.ec6b3e95.chunk.js.map": "/art-gallery-web-app/static/js/563.ec6b3e95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f6f0cd9.css",
+    "static/js/main.f6a923b6.js"
+  ]
+}

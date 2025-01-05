@@ -1,0 +1,15 @@
+
+/* src/components/Introduction.css */
+.introduction {
+  max-width: 800px;
+  margin: auto;
+  padding: 100px 50px;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+  color: white;
+}
+
+.introduction .text {
+  line-height: 1.8;
+  text-align: justify;
+}
